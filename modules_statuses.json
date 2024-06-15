@@ -1,0 +1,6 @@
+{
+    "Shop": true,
+    "Controller": true,
+    "ProductController": true,
+    "ControllerProductController": true
+}
